@@ -108,5 +108,3 @@ Thank you for checking out the **DecisionTree-ML** repository!
 Happy coding! 🌟
 
 ---
-
-![Iris Flower](images/iris_flower.png)
